@@ -1,1 +1,1 @@
-# Graphics-and-Animation-Tools-Lab
+# Graphics and Animation Tools Lab
